@@ -1,9 +1,9 @@
 ### IntelliJ IDEA ###
+.idea
+Lesson_01.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea
-Lesson_01.iml
 
 
 ### Eclipse ###
