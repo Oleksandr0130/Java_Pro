@@ -5,7 +5,7 @@ public class HW1_1 {
 
         final int valueStart = 1;
         final int valueEnd = 2_000_000;
-        final int middle = valueStart + (valueEnd - valueStart) / 2;
+        final int middle = (valueEnd - valueStart + 1) / 2;
 
         HwThread1_1 thread1 = new HwThread1_1(valueStart, middle);
         HwThread1_1 thread2 = new HwThread1_1(middle + 1, valueEnd);
