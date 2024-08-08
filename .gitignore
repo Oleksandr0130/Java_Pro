@@ -1,6 +1,4 @@
 ### IntelliJ IDEA ###
-.idea
-Lesson_01.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
