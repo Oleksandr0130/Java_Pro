@@ -20,7 +20,7 @@ public class HwThread1_1 extends Thread {
                 count++;
             }
         }
-        System.out.println("Tread " + count);
+        System.out.println("Tread: " + count);
     }
     public int getCount() {
         return count;
